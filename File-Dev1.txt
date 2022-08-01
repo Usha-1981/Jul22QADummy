@@ -1,0 +1,2 @@
+changes are from Dev1
+This is add components to setting page
